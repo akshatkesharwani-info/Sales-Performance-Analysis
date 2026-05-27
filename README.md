@@ -1,19 +1,19 @@
-# Business Sales Performance Analysis
+# 📊 Sales Performance Analysis
 
-## 📌 Objective
-Analyze business sales data to identify trends, top products, and profitable regions.
+## Objective
+Analyze sales trends and profit patterns.
 
-## 🛠 Tools Used
-- Python (Google Colab)
-- Power BI
+## Dataset
+Superstore dataset  
 
-## 📊 Key Insights
-- Sales vary over time with peak months
-- Top products generate majority revenue
-- Technology category leads in sales
-- West region performs best in profit
+## Insights
+- Technology gives highest profit  
+- Q4 has peak sales  
 
-## 💡 Recommendations
-- Focus on high-profit categories
-- Improve low-performing regions
-- Optimize discount strategy
+## Tools
+Python, Power BI  
+
+## How to Run
+git clone <repo-link>  
+pip install -r requirements.txt  
+jupyter notebook
